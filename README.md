@@ -1,7 +1,16 @@
 ### Hi there 👋
 
+- This is Jiaqi Zhu's Github
+- 🔭 I'm a software engineer with full stack, backend, and infrastructure development experience.
+- 💬 As you can see in many of my repos, I mainly use Java, Python, Go, Javascript and Typescript.
+- I'm currently a graudate student at UIUC major in computer and information science.
+- ⚡ Fun fact: Before I really commit myself into computer science, I am partime chef and former esport player.
+- 👯 I used to fight for 5173 esport team in Warface, Planetside2 and Call of Duty.
+- I'm currently working on RPC framework with registration center, load balancer based on GO.
+
+
 <!--
-**Jiaq1Zhu/Jiaq1Zhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dh0le/Dh0le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
