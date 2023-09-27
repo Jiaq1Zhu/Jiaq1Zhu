@@ -3,9 +3,10 @@
 - This is Jiaqi Zhu's Github
 - 🔭 I'm a software engineer with full-stack, backend, and infrastructure development experience.
 - 💬 As you can see in many of my repos, I mainly use Java, Python, Go, Javascript, and Typescript.
-- I'm currently a graduate student at UIUC majoring in computer and information science.
-- ⚡ Fun fact: Before I really commit myself to computer science, I am part-time chef and former esports player.
-- 👯 I used to fight for 5173 esport team in Warface, Planetside2, and Call of Duty.
+- Master in computer and information science at UIUC.
+- BS in computer science at Purdue University.
+- ⚡ Fun fact: Before I really commit myself to computer science, I am a chef and former esports player.
+- 👯 I used to fight for the 5173 e-sport team in Warface, Planetside2, and Call of Duty.
 
 <!--
 **Dh0le/Dh0le** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
