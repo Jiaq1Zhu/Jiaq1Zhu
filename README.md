@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - This is Jiaqi Zhu's Github
-- 🔭 I'm a software engineer with full-stack, backend, and infrastructure development experience.
+- 🔭 I'm a software engineer in Walmart labs.
 - 💬 As you can see in many of my repos, I mainly use Java, Python, Go, Javascript, and Typescript.
 - Master in computer and information science at UIUC.
 - BS in computer science at Purdue University.
